@@ -11,7 +11,7 @@ import quantityPrimeNumbers
 
 
 import sympy
-class Test_Number_Minimo(unittest.TestCase):
+class Test_First_Number(unittest.TestCase):
      
 
     def test_minimo(self):
